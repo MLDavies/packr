@@ -2,7 +2,7 @@
 #'
 #' @return themed ggplot
 #' @export
-#' @import ggplot2
+#' @import ggplot2, dplyr, magrittr
 #' @example man/my_plot_theme_example.R
 my_plot_theme <-
   function() {
